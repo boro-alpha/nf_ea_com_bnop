@@ -1,8 +1,8 @@
 # NF EA Com BNOP
 
-NF EA Com BNOP is a reference library containing utility functions that migrate between the NF EA Common domain and the BNOP - see links below.
+NF EA Com BNOP is a reference library containing utility functions that migrate between the NF EA Common domain and the BNOP domain - see links below.
 
-**This project is currently closed, but can be sporadically updated by the BORO Development Team it in the future.**
+**This project is currently closed, but may be sporadically updated by the BORO Development Team in the future.**
 
 ## Execution
 
@@ -12,7 +12,12 @@ NF EA Com BNOP is a reference library containing utility functions that migrate 
 
 For examples see usages in the following projects:
 
-* https://github.com/boro-alpha/bclearer_boson_1.git
+* https://github.com/boro-alpha/bclearer_boson_1_1.git
+
+And domains:
+
+* https://github.com/boro-alpha/bnop.git
+* https://github.com/boro-alpha/nf_ea_common_tools.git
 
 ## Documentation
 
